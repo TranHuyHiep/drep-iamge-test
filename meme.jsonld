@@ -61,26 +61,23 @@
   "authors": [],
   "hashAlgorithm": "blake2b-256",
   "body": {
-    "givenName": "ban co tai ma",
+    "givenName": "meme",
     "image": {
       "@type": "ImageObject",
-      "contentUrl": "https://ipfs.io/ipfs/QmbGG2uFNX62T3X9FpN17yBiD2oie6smHyMdtFZE5hZA6Y",
+      "contentUrl": "https://scarlet-abundant-mandrill-227.mypinata.cloud/ipfs/QmbGG2uFNX62T3X9FpN17yBiD2oie6smHyMdtFZE5hZA6Y?pinataGatewayToken=TW9joHLlnmlTAOUOGop8R8fUTMX_5M0dUfXHW9aDvpdzQpX-is3Edtq4bNqhe5vP",
       "sha256": "19f52935e0e15b9613a783c18e4e1e5503359035c16f7255c77d88b28a52ee51"
     },
-    "motivations": "hieptran test",
-    "objectives": "ban co tai ma",
     "paymentAddress": "addr_test1qrug33npcslk6hxf2jakl3hkyr50fj0u0py0xufjp6awtc69nfyz0cl6uqv9h443pw386thu099ja0dl6hdwtgdvptrqtfz4dy",
-    "qualifications": "ban co tai ma",
     "references": [
       {
         "@type": "Link",
-        "label": "https://www.youtube.com/watch?v=XYA3_EIk6hY&list=RDqE9nlfk6IHE&index=11",
-        "uri": "https://www.youtube.com/watch?v=XYA3_EIk6hY&list=RDqE9nlfk6IHE&index=11"
+        "label": "https://www.youtube.com/watch?v=H96ceHhGtD8&list=RDqE9nlfk6IHE&index=12",
+        "uri": "https://www.youtube.com/watch?v=H96ceHhGtD8&list=RDqE9nlfk6IHE&index=12"
       },
       {
         "@type": "Identity",
-        "label": "https://www.youtube.com/watch?v=XYA3_EIk6hY&list=RDqE9nlfk6IHE&index=11",
-        "uri": "https://www.youtube.com/watch?v=XYA3_EIk6hY&list=RDqE9nlfk6IHE&index=11"
+        "label": "https://www.youtube.com/watch?v=H96ceHhGtD8&list=RDqE9nlfk6IHE&index=12",
+        "uri": "https://www.youtube.com/watch?v=H96ceHhGtD8&list=RDqE9nlfk6IHE&index=12"
       }
     ]
   }
