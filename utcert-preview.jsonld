@@ -1,0 +1,87 @@
+{
+  "@context": {
+    "@language": "en-us",
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "CIP119": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0119/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP119:body",
+      "@context": {
+        "references": {
+          "@id": "CIP119:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Identity": "CIP119:IdentityReference",
+            "Link": "CIP119:LinkReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP119:referenceHash",
+              "@context": {
+                "hashDigest": "CIP119:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "paymentAddress": "CIP119:paymentAddress",
+        "givenName": "CIP119:givenName",
+        "image": {
+          "@id": "CIP119:image",
+          "@context": {
+            "ImageObject": "https://schema.org/ImageObject",
+            "contentUrl": "CIP119:contentUrl",
+            "sha256": "CIP119:sha256"
+          }
+        },
+        "objectives": "CIP119:objectives",
+        "motivations": "CIP119:motivations",
+        "qualifications": "CIP119:qualifications",
+        "doNotList": "CIP119:doNotList"
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "hashAlgorithm": "blake2b-256",
+  "body": {
+    "givenName": "utcert",
+    "image": {
+      "@type": "ImageObject",
+      "contentUrl": "https://scarlet-abundant-mandrill-227.mypinata.cloud/ipfs/QmTszp5T3xFGkg83hgA61xmXXgwCUjGFzZHrLNfqCFtXup?pinataGatewayToken=TW9joHLlnmlTAOUOGop8R8fUTMX_5M0dUfXHW9aDvpdzQpX-is3Edtq4bNqhe5vP",
+      "sha256": "53b31ac8ae2a974d328cde6d9ccbc916180ecb2c5bd5fa48c831c650102799c7"
+    },
+    "motivations": "I am motivated to become a DRep because I want to use utcert to educate students about blockchain and its real-world applications. I believe that by providing accessible knowledge and hands-on learning opportunities, we can build a stronger community of future developers, innovators, and leaders who will contribute to Cardano’s growth.",
+    "objectives": "As a DRep, my main objective is to expand blockchain knowledge among students and young communities through the utcert project. I aim to make Cardano’s ecosystem easier to understand and more accessible, helping the next generation gain the skills and confidence to engage with decentralized technologies.",
+    "paymentAddress": "addr_test1qq5p7zkegjjfga3z2jzlzpq8zq73kgttd7q7pl3mjfgzs70jy3ha3zksfktlnvm0sljrr5wvnhwy09x2fzujty5lkxgqj26cpz",
+    "qualifications": "Founder of utcert – blockchain knowledge platform for students\nExperience in blockchain industry and decentralized applications\nFunded Proposer in Project Catalyst (Fund 8 & 9)\nCardano Community Advisor (Fund 8–12)",
+    "references": [
+      {
+        "@type": "Link",
+        "label": "Explore blockchain for secure, tamper-proof certificates",
+        "uri": "https://utcert.vercel.app/"
+      },
+      {
+        "@type": "Identity",
+        "label": "TEX is a DeFi and AI-blockchain development platform",
+        "uri": "https://www.texblabs.com/"
+      }
+    ]
+  }
+}
