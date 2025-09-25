@@ -67,20 +67,20 @@
       "contentUrl": "https://scarlet-abundant-mandrill-227.mypinata.cloud/ipfs/QmTszp5T3xFGkg83hgA61xmXXgwCUjGFzZHrLNfqCFtXup?pinataGatewayToken=TW9joHLlnmlTAOUOGop8R8fUTMX_5M0dUfXHW9aDvpdzQpX-is3Edtq4bNqhe5vP",
       "sha256": "53b31ac8ae2a974d328cde6d9ccbc916180ecb2c5bd5fa48c831c650102799c7"
     },
-    "motivations": "I am motivated to become a DRep because I want to use utcert to educate students about blockchain and its real-world applications. I believe that by providing accessible knowledge and hands-on learning opportunities, we can build a stronger community of future developers, innovators, and leaders who will contribute to Cardano’s growth.",
-    "objectives": "As a DRep, my main objective is to expand blockchain knowledge among students and young communities through the utcert project. I aim to make Cardano’s ecosystem easier to understand and more accessible, helping the next generation gain the skills and confidence to engage with decentralized technologies.",
+    "motivations": "utcert",
+    "objectives": "utcert",
     "paymentAddress": "addr_test1qq5p7zkegjjfga3z2jzlzpq8zq73kgttd7q7pl3mjfgzs70jy3ha3zksfktlnvm0sljrr5wvnhwy09x2fzujty5lkxgqj26cpz",
-    "qualifications": "Founder of utcert – blockchain knowledge platform for students\nExperience in blockchain industry and decentralized applications\nFunded Proposer in Project Catalyst (Fund 8 & 9)\nCardano Community Advisor (Fund 8–12)",
+    "qualifications": "utcert",
     "references": [
       {
         "@type": "Link",
-        "label": "Explore blockchain for secure, tamper-proof certificates",
+        "label": "https://utcert.vercel.app/",
         "uri": "https://utcert.vercel.app/"
       },
       {
         "@type": "Identity",
-        "label": "TEX is a DeFi and AI-blockchain development platform",
-        "uri": "https://www.texblabs.com/"
+        "label": "https://utcert.vercel.app/",
+        "uri": "https://utcert.vercel.app/"
       }
     ]
   }
